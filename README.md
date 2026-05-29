@@ -1,27 +1,75 @@
-<!--Author: D.A.Pelasgus-->
-<p align="center"><img src="assets/logo.svg" alt="ChimeraOS" style="width: 150px;" /></p>
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# chimeraos
 
-[![status](https://img.shields.io/badge/status-stable-%23961937.svg?style=for-the-badge)](https://github.com/chimeraos/install-media/releases/latest)
-[![License](https://img.shields.io/badge/License-MIT-%23961937.svg?style=for-the-badge)](https://github.com/ChimeraOS/chimeraos/blob/master/LICENSE)
-[![Chat Server](https://img.shields.io/badge/chat-discord-%23961937.svg?style=for-the-badge)](https://discord.gg/fKsUbrt)
-[![website](https://img.shields.io/badge/website-chimeraos.org-%23961937.svg?style=for-the-badge)](https://chimeraos.org)
-[![Made with Love](https://img.shields.io/badge/made_with-❤-%23961937.svg?style=for-the-badge)](https://chimeraos.org)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/chimeraos)
 
-Bringing the console experience to pc.
+<!-- AI:start:what-it-does -->
+This project provides a Linux-based operating system designed for couch gaming, using Steam's Big Picture mode as its primary interface. It simplifies the setup of a gaming-focused environment for users who want a streamlined, console-like experience on their PC.
+<!-- AI:end:what-it-does -->
 
-> [!CAUTION]
-> DO NOT DOWNLOAD DIRECTLY FROM THE RELEASES PAGE.
-> THIS IS NOT INSTALLATION MEDIA.
+## Architecture
 
-> [!IMPORTANT]
-> To download use the following link:
-> [ChimeraOS website](https://chimeraos.org)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-> [!NOTE]
-> Instantly turn any PC into a gaming console.
-> 
-> Thousands of games, dozens of platforms.
-> 
-> Fully controller compatible interface.
-> 
-> Automatic updates that stay out of the way.
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/chimeraos.git
+cd chimeraos
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/chimeraos`](https://github.com/Interested-Deving-1896/chimeraos) and mirrored through:
+
+```
+Interested-Deving-1896/chimeraos  ──►  OpenOS-Project-OSP/chimeraos  ──►  OpenOS-Project-Ecosystem-OOC/chimeraos
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/chimeraos/blob/master/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
